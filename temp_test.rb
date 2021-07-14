@@ -26,3 +26,13 @@ spencer.back_project(book)
 meryl.back_project(book)
 
 meryl.backed_projects
+
+
+
+[
+  #<ProjectBacker:0x00007fbb7e3be958 @backer=#<Backer:0x00007fbb7e3594e0 @name="Meryl">, @project=#<Project:0x00007fbb7e35ae80 @title="Karaoke">>, 
+  #<ProjectBacker:0x00007fbb7e3be958 @backer=#<Backer:0x00007fbb7e3594e0 @name="Meryl">, @project=#<Project:0x00007fbb7e35ae80 @title="Karaoke">>, 
+  #<ProjectBacker:0x00007fbb7e435b70 @backer=#<Backer:0x00007fbb7e350bd8 @name="Steven">, @project=#<Project:0x00007fbb7e35ae80 @title="Karaoke">>, 
+  #<ProjectBacker:0x00007fbb7e435b70 @backer=#<Backer:0x00007fbb7e350bd8 @name="Steven">, @project=#<Project:0x00007fbb7e35ae80 @title="Karaoke">>, 
+  #<ProjectBacker:0x00007fbb7e38c390 @backer=#<Backer:0x00007fbb7e350bd8 @name="Steven">, @project=#<Project:0x00007fbb7e3a5250 @title="Magic The Gathering Thing">>, 
+  #<ProjectBacker:0x00007fbb7e38c390 @backer=#<Backer:0x00007fbb7e350bd8 @name="Steven">, @project=#<Project:0x00007fbb7e3a5250 @title="Magic The Gathering Thing">>, #<ProjectBacker:0x00007fbb7e434838 @backer=#<Backer:0x00007fbb7e27a380 @name="Spencer">, @project=#<Project:0x00007fbb7e342dd0 @title="Ruby, Ruby, and More Ruby">>, #<ProjectBacker:0x00007fbb7e434838 @backer=#<Backer:0x00007fbb7e27a380 @name="Spencer">, @project=#<Project:0x00007fbb7e342dd0 @title="Ruby, Ruby, and More Ruby">>, #<ProjectBacker:0x00007fbb7e3b7068 @backer=#<Backer:0x00007fbb7e3594e0 @name="Meryl">, @project=#<Project:0x00007fbb7e342dd0 @title="Ruby, Ruby, and More Ruby">>, #<ProjectBacker:0x00007fbb7e3b7068 @backer=#<Backer:0x00007fbb7e3594e0 @name="Meryl">, @project=#<Project:0x00007fbb7e342dd0 @title="Ruby, Ruby, and More Ruby">>]

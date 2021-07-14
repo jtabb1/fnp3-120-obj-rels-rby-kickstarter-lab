@@ -1,3 +1,5 @@
+# See "v.02" notes below:
+
 class Backer 
 
   attr_accessor :name
@@ -13,8 +15,14 @@ class Backer
     @@all
   end
 
-  def back_project(project)
+  # v.02: original working version:
+  def back_project_0(project)
     new_project = ProjectBacker.new(project, self)
+  end
+
+  # v.02: official solution version also works:
+  def back_project(project)
+    ProjectBacker.new(project, self)
   end
 
   def backed_projects
